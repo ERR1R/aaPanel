@@ -144,7 +144,7 @@
 		"CY2":"Suggested range of port: 8888 - 65535",
 		"CY3":"Binding a access domain to the Panel Warning：If a domain is bound to Panel, you'll have to access panel with Domain ONLY!",
 		"CY4":"Set authorized access IP, split multiple IP with (,) Warning：If authorized IP is set, ONLY the PC with authorized IP can access the panel!",
-		"CY5":"New created site will be saved to subdirectory by default!",
+		"CY5":"Newly created site will be saved to subdirectory by default!",
 		"CY6":"Directory of site and database backup!",
 		"CY7":"Default IP is Internet IP. If you need use local virtual machine to test, please input Internal IP of virtual machine!",
 		"CY8":"Sync",
