@@ -1311,7 +1311,7 @@ var lan = {
 		"change_defalut_page":"Change default page",
 		"err_404":"404 error page",
 		"empty_page":"Blank page",
-		"default_page_stop":"Defualt site stop page",
+		"default_page_stop":"Default site stop page",
         "site_name": "Site name",
         "normal": "Normal",
         "backup": "Back up",
