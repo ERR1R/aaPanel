@@ -64,7 +64,7 @@
 		"TH5":"Date expired",
 		"TH6":"Notes",
 		"TH7":"Action",
-		"JS1":"Pls install web server first!",
+		"JS1":"Please install a web server first!",
 		"JS2":"Install",
 		"MOVE_TO":"Move to",
 		"PHP_CLI_VER":"PHP CLI version"
@@ -113,7 +113,7 @@
 		"TP1":"Sync selected database information to server",
 		"TP2":"Sync all database information to server",
 		"TP3":"Obtaining database list from server",
-		"JS1":"Pls install MySQL first!",
+		"JS1":"Please install MySQL first!",
 		"JS2":"Install",
 		"RECYCLE_BIN":"Recycle bin"
 	},
@@ -146,7 +146,7 @@
 		"CY4":"Set authorized access IP, split multiple IP with (,) Warning：If authorized IP is set, ONLY the PC with authorized IP can access the panel!",
 		"CY5":"New created site will be saved to subdirectory by default!",
 		"CY6":"Directory of site and database backup!",
-		"CY7":"Defualt IP is Internet IP. If you need use local virtual machine to test, please input Intranet IP of virtual machine!",
+		"CY7":"Default IP is Internet IP. If you need use local virtual machine to test, please input Internal IP of virtual machine!",
 		"CY8":"Sync",
 		"CY9":"Modify",
 		"CY10":"Modify",
